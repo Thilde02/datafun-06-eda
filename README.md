@@ -52,3 +52,8 @@ import pyarrow
 
 
 Pull data set and test for confirmation
+
+## Dataset: Netflix Titles
+- **Source:** [Kaggle - Netflix Titles](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Description:** This dataset includes TV shows and movies available on Netflix with attributes such as title, director, cast, country, release year, rating, and more.
+
